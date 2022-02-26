@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
+- 📫 Reach me out via [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
