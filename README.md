@@ -2,7 +2,7 @@
 <h3 align="center">An eager Flutter programmer 😜</h3>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/rajathirumal?logo=GitHub&style=for-the-badge)]
+[![GitHub followers](https://img.shields.io/github/followers/rajathirumal?logo=GitHub&style=for-the-badge)
 
 <!--
 **rajathirumal/rajathirumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
