@@ -2,9 +2,7 @@
 <h3 align="center">An eager Flutter programmer 😜</h3>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamrajathirumal?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)]
 [![GitHub followers](https://img.shields.io/github/followers/rajathirumal?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rajathirumal/)][linkedin]
 
 <!--
 **rajathirumal/rajathirumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
