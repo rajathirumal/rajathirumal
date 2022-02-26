@@ -4,7 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathirumal&label=GitHub%20Profile%20views&color=0e75b6&style=flat" alt="rajathirumal" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajathirumal" alt="rajathirumal" /></a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathirumal&hide=contribs&theme=dark&show_icons=true&locale=en" alt="rajathirumal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathirumal&hide=contribs&theme=dark" alt="rajathirumal" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajathirumal&theme=dark&show_icons=true&locale=en&layout=compact" alt="rajathirumal" /></p>
+
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajathirumal" alt="rajathirumal" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/iamrajathirumal" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajathirumal?logo=twitter&style=for-the-badge" alt="iamrajathirumal" /></a> </p>
 
@@ -41,10 +48,5 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &ensp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajathirumal&theme=dark&show_icons=true&locale=en&layout=compact" alt="rajathirumal" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajathirumal&hide=contribs&theme=dark&show_icons=true&locale=en" alt="rajathirumal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajathirumal&hide=contribs&theme=dark" alt="rajathirumal" /></p>
 
 
