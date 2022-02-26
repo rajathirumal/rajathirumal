@@ -1,5 +1,10 @@
-### Hi there 👋
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1">Johannes Milke!</a></h1>
+<h1 align="center"> Hi 👋, I'm Raja Thirumal!</h1>
+<h3 align="center">An eager Flutter programmer 😜</h3>
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/rajathirumal?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![GitHub followers](https://img.shields.io/github/followers/rajathirumal?logo=GitHub&style=for-the-badge)][github]
+[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/rajathirumal/)][linkedin]
 
 <!--
 **rajathirumal/rajathirumal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
