@@ -12,15 +12,15 @@
 <p align="left"> <a href="https://twitter.com/iamrajathirumal" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajathirumal?logo=twitter&style=for-the-badge" alt="iamrajathirumal" /></a> </p>
 
 
-- 🔭 I’m currently working on [**Covid19**](https://github.com/rajathirumal/covid19)
+- 🔭 I’m currently working on [***Covid19 Flutter Application***](https://github.com/rajathirumal/covid19)
 
-- 🌱 I’m currently learning [**Flutter**](https://flutter.dev/)
+- 🌱 I’m currently learning [***Flutter***](https://flutter.dev/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/rajathirumal)
+- 👨‍💻 All of my projects are available at [***GitHub***](https://github.com/rajathirumal)
 
 - 💬 Ask me about **Flutter**
 
-<!-- - 📫 How to reach me **rajathirumal98@gmail.com** -->
+- 📫 How to reach me [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
