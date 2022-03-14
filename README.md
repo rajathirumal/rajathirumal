@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://twitter.com/iamrajathirumal" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajathirumal?logo=twitter&style=for-the-badge" alt="iamrajathirumal" /></a> </p>
 
 
-- 🔭 I’m currently working on [***Covid19 Flutter Application***](https://github.com/rajathirumal/covid19)
+- 🔭 I’m currently working on [***Fuel Tracker - Flutter Application***](https://github.com/rajathirumal/FuelTracker)
 
 - 🌱 I’m currently learning [***Flutter***](https://flutter.dev/)
 
