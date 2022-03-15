@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [***GitHub***](https://github.com/rajathirumal)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Java**
 
 - 📫 Reach me out via [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
 
