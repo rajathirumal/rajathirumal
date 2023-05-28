@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [***GitHub***](https://github.com/rajathirumal)
 
-- 💬 Ask me about ***Java, Flutter, AI***
+- 💬 Ask me about ***Python, Flutter, AI***
 
 - 📫 Reach me out via [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
 
