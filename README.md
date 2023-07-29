@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Raja Thirumal!</h1>
-<h3 align="center">An eager Flutter programmer 😜</h3>
+<h3 align="center">An eager .py programmer 😜</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathirumal&label=GitHub%20Profile%20views&color=0e75b6&style=flat" alt="rajathirumal" /> </p>
