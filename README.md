@@ -12,14 +12,14 @@
 <p align="left"> <a href="https://twitter.com/iamrajathirumal" target="blank"><img src="https://img.shields.io/twitter/follow/iamrajathirumal?logo=twitter&style=for-the-badge" alt="iamrajathirumal" /></a> </p>
 
 
-- 🔭 I’m currently building somthing big in ***AI*** and it's private 
+<!-- - 🔭 I’m currently building somthing big in ***AI*** and it's private -->
 <!-- [***Personal - Flutter Application***](https://github.com/rajathirumal/personal) -->
 
-- 🌱 I’m currently learning [***Flutter***](https://flutter.dev/) + [***AI***](https://developers.google.com/machine-learning/crash-course/ml-intro)
+- 🌱 I’m currently learning [***Python***](https://python.org/) + [***AI***](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 - 👨‍💻 All of my projects are available at [***GitHub***](https://github.com/rajathirumal)
 
-- 💬 Ask me about ***Python, Flutter, AI***
+- 💬 Ask me about ***Python, AI***
 
 - 📫 Reach me out via [***LinkedIn***](https://www.linkedin.com/in/raja-thirumal-govindaraj-936b06159/)
 
