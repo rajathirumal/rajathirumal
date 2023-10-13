@@ -25,7 +25,7 @@
 
 - ❤️ In love with ***Python, AI***
 
-- ❤️ Eagerly witing for _PRs_
+- 🤩 Eagerly witing for _PRs_
   
 
 <h3 align="left">Connect with me:</h3>
