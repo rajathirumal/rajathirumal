@@ -1,4 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Raja Thirumal!</h1>
+# Hi, I'm _Raja Thirumal_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
+
 <h3 align="center">An eager .py programmer 😜</h3>
 
 
